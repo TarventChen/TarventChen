@@ -1,7 +1,7 @@
 ### Chen Duo
 - 🔭 Javascript, React, Node.js
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarventChen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarventChen&theme=highcontrast_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TarventChen/TarventChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
