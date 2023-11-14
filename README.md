@@ -1,4 +1,5 @@
 ### Chen Duo
+- 🔭 Javascript, React, Node.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarventChen)](https://github.com/anuraghazra/github-readme-stats)
 
